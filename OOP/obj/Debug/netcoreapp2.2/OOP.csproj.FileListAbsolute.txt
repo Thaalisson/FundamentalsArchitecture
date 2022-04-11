@@ -1,0 +1,13 @@
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.deps.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.dev.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.dll
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.pdb
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.AssemblyReference.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfo.cs
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.dll
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.pdb
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.genruntimeconfig.cache

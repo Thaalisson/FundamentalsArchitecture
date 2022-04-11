@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "O15E39vSKQ8QvWiPfnwwjs8xMMUP4/GXPZeA+28ZWkbp2oTgW1l0eY8h/KBxtR9Opyx3K3I2lRY+xLM4oYK/6A==",
+  "success": true,
+  "projectFilePath": "D:\\CURSOS_DESENVOLVEDOR_IO\\Fundamentos de Arquitetura de Software\\11.Links e Materiais\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Thalisson s2 Joyce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

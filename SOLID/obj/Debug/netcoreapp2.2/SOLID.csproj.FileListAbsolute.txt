@@ -1,0 +1,13 @@
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.AssemblyReference.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.CoreCompileInputs.cache
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
+D:\CURSOS_DESENVOLVEDOR_IO\Fundamentos de Arquitetura de Software\11.Links e Materiais\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.genruntimeconfig.cache
